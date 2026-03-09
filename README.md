@@ -128,6 +128,13 @@ Senior Data Analyst
 
 ---
 
+# License
+
+This project is protected under an All Rights Reserved license.  
+Permission from the author is required before any use or distribution.
+
+---
+
 # ⭐ Support
 
 If you found this project useful, consider **starring the repository**.
